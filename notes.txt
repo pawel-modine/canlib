@@ -1,0 +1,2 @@
+PS C:\Users\pwodnicki\Documents\GitHub\canlib> git config core.eol lf        
+PS C:\Users\pwodnicki\Documents\GitHub\canlib> git config core.autocrlf input
